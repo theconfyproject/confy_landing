@@ -1,0 +1,67 @@
+section#one.wrapper{
+    padding: 12rem 0 8rem 0;
+}
+
+#confy-link{
+    border-radius: 100%;
+    border: 1px solid #ffffff;
+    color: #ffffff;
+    display: block;
+    font-size: 3.5rem;
+    height: 7rem;
+    line-height: 7rem;
+    margin: 0 auto 3rem auto;
+    position: relative;
+    width: 7rem;
+}
+
+.spotlight_icon{
+    height: 100%;
+    /*font-size: 11.9rem;*/
+    font-size: 5rem;
+    padding-top: 2rem;
+    color:  #56a299;
+    /*border: #56a299 1px solid;*/
+    border-radius: 4px 4px 4px 4px;
+    background-color: #ffffff;
+}
+
+.profiles {
+}
+    .profiles .profile {
+
+    }
+        @media screen and (min-width: 1281px) {
+
+            .profiles > * {
+                padding: 2rem;
+                width: 50%;
+            }
+
+        }
+        @media screen and (min-width: 981px) and (max-width: 1280px) {
+
+            .profiles {
+                margin-bottom: 4rem 0;
+            }
+
+            .profiles > * {
+                padding: 1rem;
+                width: 50%;
+            }
+
+        }
+
+        @media screen and (min-width: 981px) and (max-width: 1280px) {
+
+            .profiles {
+                margin-bottom: 4rem 0;
+            }
+
+            .profiles > * {
+                padding: 1rem;
+                width: 50%;
+            }
+
+        }
+
