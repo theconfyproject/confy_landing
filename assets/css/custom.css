@@ -26,42 +26,7 @@ section#one.wrapper{
     background-color: #ffffff;
 }
 
-.profiles {
+#contact-email{
+    color: #56a299;
 }
-    .profiles .profile {
-
-    }
-        @media screen and (min-width: 1281px) {
-
-            .profiles > * {
-                padding: 2rem;
-                width: 50%;
-            }
-
-        }
-        @media screen and (min-width: 981px) and (max-width: 1280px) {
-
-            .profiles {
-                margin-bottom: 4rem 0;
-            }
-
-            .profiles > * {
-                padding: 1rem;
-                width: 50%;
-            }
-
-        }
-
-        @media screen and (min-width: 981px) and (max-width: 1280px) {
-
-            .profiles {
-                margin-bottom: 4rem 0;
-            }
-
-            .profiles > * {
-                padding: 1rem;
-                width: 50%;
-            }
-
-        }
 
